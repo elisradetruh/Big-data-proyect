@@ -1,2 +1,2 @@
-# Big-data-proyect
-Just a Big data proyect to practice every day.
+# A web proyect
+Just a Web proyect to practice every day.
